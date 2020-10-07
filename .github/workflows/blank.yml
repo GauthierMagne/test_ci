@@ -6,7 +6,7 @@ name: CI
 # events but only for the main branch
 on:
   push:
-    branches: [ GauthierMagne-patch-1]
+    branches: [ GauthierMagne-patch-1 ]
   pull_request:
     branches: [ main ]
 
